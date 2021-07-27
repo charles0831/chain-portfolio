@@ -17,7 +17,7 @@ const Contact = () => {
             <span>Email</span>
           </div>
           <div className="contact-links">
-            <span>kvaigon97@gmail.com<br />fullstack831@gmail.com</span>
+            <span>psvitalii@outlook.com</span>
           </div>
         </div>
 
@@ -33,7 +33,7 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/fullstack831/"
+              href="https://github.com/ps-vitalii/"
             >
               <i className="fab fa-github" title="github" id="github"></i>
             </a>
