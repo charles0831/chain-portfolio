@@ -17,7 +17,7 @@ const Contact = () => {
             <span>Email</span>
           </div>
           <div className="contact-links">
-            <span>psvitalii@outlook.com</span>
+            {/*<span>psvitalii@outlook.com</span>*/}
           </div>
         </div>
 
