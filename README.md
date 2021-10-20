@@ -4,9 +4,9 @@
 
 ### Demo Video
 
-### Link :link: https://vitalii-polishchuk.vercel.app/
+### Link :link: https://fullstack.vercel.app/
 
-## Images 
+## Images
 
 <!-- <img src='./project_images/portfolio.png/' /> -->
 
@@ -16,7 +16,7 @@
 
 ## Run Locally
 
-- Run this command `git clone https://github.com/webdev0831/vitalii-polishchuk.git`
+- Run this command `git clone https://github.com/webdev0831/fullstack.git`
 - You are now in the dev environment and you can play around
 
 ## Tech Stack

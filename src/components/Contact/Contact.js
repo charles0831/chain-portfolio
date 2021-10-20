@@ -17,7 +17,7 @@ const Contact = () => {
             <span>Email</span>
           </div>
           <div className="contact-links">
-            {/*<span>psvitalii@outlook.com</span>*/}
+            <span>fullstack831@gmail.com</span>
           </div>
         </div>
 
@@ -33,7 +33,7 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/ps-vitalii/"
+              href="https://github.com/chaindev31/"
             >
               <i className="fab fa-github" title="github" id="github"></i>
             </a>
@@ -49,7 +49,7 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://www.linkedin.com/in/vitalii-polishchuk-912296215/"
+              href="https://www.linkedin.com/in/fullstack-912296215/"
             >
               <i className="fab fa-linkedin" title="linkedin" id="linkedin"></i>
             </a>
@@ -85,7 +85,7 @@ const Contact = () => {
             <span>Phone</span>
           </div>
           <div className="contact-links">
-            <span>+491743678118</span>
+            <span>+</span>
           </div>
         </div>
       </div>

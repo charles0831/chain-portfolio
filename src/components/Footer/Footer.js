@@ -11,7 +11,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          Vitalii Polishchuk
+          Full Satck
         </a>{" "}
       </h2>
     </div>
