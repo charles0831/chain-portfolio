@@ -33,7 +33,7 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://github.com/chaindev31/"
+              href="https://github.com/webdev0831/"
             >
               <i className="fab fa-github" title="github" id="github"></i>
             </a>

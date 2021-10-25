@@ -73,7 +73,7 @@ const Home = () => {
         <h4 className="welcome-content">WELCOME TO MY WORLD</h4>
         <br />
         <h1 className="main-content">
-          Hi, I’m Full Satck Blockchain Developer
+          Hi, I’m Davis
           <motion.span
             drag={true}
             dragConstraints={{ left: 0, top: 0, bottom: 0, right: 0 }}
@@ -121,10 +121,10 @@ const Home = () => {
 
         <h1>
           {" "}
-          from Russia{" "}
-          <span role="img" aria-label="Ukraine Flag emoji">
-            ru
-          </span>
+          from Singapore{" "}
+          {/* <span role="img" aria-label="Ukraine Flag emoji">
+            sg
+          </span> */}
         </h1>
 
         <div className="button-wrapper">
@@ -135,7 +135,7 @@ const Home = () => {
             Contact Me
           </button>
           <a
-            href="https://drive.google.com/file/d/1ZCxRRHsGr38YRpXP1yPWq-IEvIU-gFJh/view?usp=sharing"
+            href="https://drive.google.com/file/d/1WbpUfH3GNP6aL6GwbCLo588_Mlm7s9cX/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
