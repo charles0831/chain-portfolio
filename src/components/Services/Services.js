@@ -15,12 +15,6 @@ const Services = () => {
       <div className="services-wrapper">
         <div className="services">
           <li>
-            <img src={uiImage} alt="" />
-            <p>Full Stack Web Development</p>
-          </li>
-        </div>
-        <div className="services">
-          <li>
             <img src={webImage} alt="" />
             <p>Frontend Web Development</p>
           </li>
@@ -29,12 +23,6 @@ const Services = () => {
           <li>
             <img src={uiImage} alt="" />
             <p>Blockchain Development</p>
-          </li>
-        </div>
-        <div className="services">
-          <li>
-            <img src={webImage} alt="" />
-            <p>Streaming/WebRTC Development</p>
           </li>
         </div>
       </div>
