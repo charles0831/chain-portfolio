@@ -121,7 +121,7 @@ const Home = () => {
 
         <h1>
           {" "}
-          from Singapore{" "}
+          from Canada{" "}
           {/* <span role="img" aria-label="Ukraine Flag emoji">
             sg
           </span> */}
@@ -135,7 +135,7 @@ const Home = () => {
             Contact Me
           </button>
           <a
-            href="https://drive.google.com/file/d/1THFeYjcI98UbZuMfOH8FVF0gGKPXEvMd/view?usp=sharing"
+            href="https://drive.google.com/file/d/1fk2wPcpZVia6ZiOyLQMoGWuJkGhRPRSa/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >

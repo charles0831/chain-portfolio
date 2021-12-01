@@ -49,7 +49,7 @@ const Contact = () => {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://www.linkedin.com/in/fullstack-912296215/"
+              href="https://www.linkedin.com/in/charles-kao-a16b73223/"
             >
               <i className="fab fa-linkedin" title="linkedin" id="linkedin"></i>
             </a>
@@ -85,7 +85,7 @@ const Contact = () => {
             <span>Phone</span>
           </div>
           <div className="contact-links">
-            <span>+</span>
+            <span>+14082284933</span>
           </div>
         </div>
       </div>
