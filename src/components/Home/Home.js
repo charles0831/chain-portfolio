@@ -135,7 +135,7 @@ const Home = () => {
             Contact Me
           </button>
           <a
-            href="https://drive.google.com/file/d/1fk2wPcpZVia6ZiOyLQMoGWuJkGhRPRSa/view?usp=sharing"
+            href="https://drive.google.com/file/d/1y6CgwkoWXBRakt3N-uW8-bZ0ZsqiN8fs/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
